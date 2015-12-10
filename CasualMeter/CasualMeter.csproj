@@ -270,24 +270,9 @@
     <Resource Include="Resources\down-open-inverted.png" />
     <Resource Include="Resources\settings-inverted.png" />
     <Resource Include="Resources\pin-inverted.png" />
-    <Content Include="res\opcodes-3308.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="res\opcodes-3308b.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="res\opcodes-3407.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="res\opcodes-3603.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="res\opcodes-3603b.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="res\opcodes-3603GF.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
+    <Resource Include="res\opcodes-EU.txt" />
+    <Resource Include="res\opcodes-NA.txt" />
+    <Resource Include="res\opcodes-RU.txt" />
     <Content Include="res\regions.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
